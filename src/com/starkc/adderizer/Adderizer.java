@@ -1,5 +1,11 @@
 package com.starkc.adderizer;
 
+/**
+ * 	Test harness for adding two numbers together
+ *  	- run with two integers to add them together
+ * @author Chris
+ *
+ */
 public class Adderizer {
 
 	public static void main(String[] args ) {
